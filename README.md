@@ -1,1 +1,69 @@
-Hello friend! 👋 Welcome to my page! I'm Mohamed Aboalhassan, a Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt. 💻 About Me I'm a Backend Developer specializing in Laravel, PHP, and MySQL. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🧠 Tech Stack <center> <p> <img alt="git" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" /> </center> <p> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="REST API" src="https://img.shields.io/badge/REST%20API-4DB33D?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="OOP" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="Database Design" src="https://img.shields.io/badge/Database%20Design-003B57?style=for-the-badge&logo=databricks&logoColor=white" /> </p> 🧩 Featured Projects <table> <thead align="center"> <tr> <td><b>🎁 Project</b></td> <td><b>⭐ Stars</b></td> <td><b>📚 Forks</b></td> <td><b>🛎 Issues</b></td> <td><b>📬 Pull Requests</b></td> </tr> </thead> <tbody> <tr> <td><a href="https://github.com/memo4code2/Solar-ecommerce"><b>Solar Energy E-commerce Platform (Backend)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Solar-ecommerce?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/memo4code2/Simple-To-Do-List"><b>SimpleToDoList (PHP/JS)</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/memo4code2/Simple-To-Do-List?style=flat-square&labelColor=343b41"/></td> </tr> </tbody> </table> 💼 Professional Experience Backend Developer (Freelancer) Developed RESTful APIs using PHP and MySQL for e-commerce applications 🎓 Education Bachelor of Management Information Systems — Expected Aug 2024 Giza Higher Institute for Administrative Sciences Coursework: Database Systems, Web Development, Business Analytics 📫 Connect With Me <p align="center"> <a href="https://github.com/memo4code2" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:memofastcup@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamed-abolhassan-b16a803a0/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <div align="center"> ✨ Thanks for visiting my profile! ✨
+Hello friend! 👋 Welcome to my page!
+
+I'm Bakr Elsaued, a Frontend Developer from 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
+
+---
+
+## 💻 About Me
+
+I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
+
+I enjoy transforming designs into real interactive experiences using clean code and modern frameworks.  
+Currently improving my skills in React and JavaScript to build scalable web applications.
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+| 🎨 Project | 🚀 Description |
+|-----------|---------------|
+| Portfolio Website | Personal responsive portfolio built with HTML, CSS & JS |
+| React Todo App | Task manager using React Hooks |
+| Landing Pages | Modern UI pages with Bootstrap |
+| Dashboard UI | Admin panel frontend design |
+
+_(Replace with your real project links later)_
+
+---
+
+## 💼 What I Do
+
+✔ Responsive Web Design  
+✔ Interactive UI with JavaScript  
+✔ React Components & Hooks  
+✔ Clean & organized code  
+✔ Mobile-first layouts  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ Thanks for visiting my profile!
