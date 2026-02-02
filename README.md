@@ -1,7 +1,6 @@
 Hello friend! 👋 Welcome to my page!
 
-I'm Bakr Elsaued, a Frontend Developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
+I'm Bakr Elsaued, a Frontend Developer from Egypt.
 
 ---
 
