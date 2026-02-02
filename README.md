@@ -1,6 +1,6 @@
 Hello friend! 👋 Welcome to my page!
 
-I'm Bakr Elsaued, a Frontend Developer from Egypt.
+I'm Bakr Elsayed, a Frontend Developer from Egypt.
 
 ---
 
