@@ -58,6 +58,9 @@ _(Replace with your real project links later)_
   <a href="https://www.linkedin.com/in/bak-elsayed-4038173a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://wa.me/201033428244">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
